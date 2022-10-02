@@ -4,7 +4,7 @@ var btn = document.querySelector("#button");
 var footer = document.querySelector("footer");
 var navBtn = document.querySelectorAll(".navigation ul li a");
 var nbJeuxMobiles = 2;
-var nbJeuxPC = 6;
+var nbJeuxPC = 7;
 const NBJEUX = nbJeuxMobiles + nbJeuxPC;
 const IMOBILEBASE = nbJeuxPC + 1;
 
